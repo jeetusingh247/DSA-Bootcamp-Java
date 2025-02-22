@@ -7,13 +7,13 @@ public class Basics {
 //            System.out.println("Hello World");
 //        }
 //        int count = 1;
-//        while(count != 5) {
+//        while(count != 5) { // repeat a block of code until condition becomes false
 //            System.out.println(count);
 //            count++;
 //        }
 
         // for loop
-        for(int count = 1; count != 5; count++) {
+        for(int count = 1; count != 5; count++) { // used when we know num of iterations
             System.out.println(count);
         }
     }
