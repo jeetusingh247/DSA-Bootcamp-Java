@@ -1,7 +1,7 @@
 package com.kunal;
 
 public class Basics {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // method signature
 //        int a = 10;
 //        if (a == 10) {
 //            System.out.println("Hello World");
