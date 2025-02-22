@@ -1,4 +1,4 @@
-package com.kunal;
+package com.kunal; // it's a folder with set of related classes & interfaces
 
 public class Basics {
     public static void main(String[] args) { // method signature
